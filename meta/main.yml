@@ -1,0 +1,16 @@
+---
+galaxy_info:
+  author: Ian Esplin
+  description: John The Ripper for Kali
+  license: MIT
+  min_ansible_version: 2.5
+  platforms:
+    - name: Ubuntu
+      versions:
+        - 18.04
+    - name: Kali
+      versions:
+        - rolling
+  galaxy_tags: []
+
+dependencies: []
