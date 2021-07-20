@@ -1,6 +1,8 @@
 ansible-role-johntheripper
 =========
 
+**This role is no longer maintained. Kali now includes an updated version of JtR Jumbo.**
+
 Ansible role to install John the Ripper from the official repo for the Jumbo bleeding-edge version
 
 Example Playbook
